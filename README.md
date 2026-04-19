@@ -36,4 +36,4 @@ Memory Scanning: Implementing a "Backwards-Scan" logic to verify ghost types bas
 
 **🤖 AI Collaboration**
 
-This project and README was developed with the assistance of Gemini, an AI model by Google.
+This project and README was developed with the assistance of Gemini and Github Copilot.
